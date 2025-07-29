@@ -32,7 +32,7 @@
 13. [コンテナ、イテレータ、汎用アルゴリズム](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
 14. [連想配列と連結リスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第14回_連想配列と連結リスト.ipynb)
 15. [構造体とクラス](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
-16. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_動的メモリ管理とスマートポインタ.ipynb)
+16. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第16回_動的メモリ管理とスマートポインタ.ipynb)
 17. [vectorクラスを作る、inline関数、const関数、explicit、auto、usingディレクティブ、usingエイリアスディレクティブ]
 18. [stringクラスを作る、演算子オーバーロード]
 19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/cpp_catch_up_09_クラス.ipynb)
