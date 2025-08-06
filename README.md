@@ -29,13 +29,13 @@
 後期:
 
 12. [C互換ライブラリ、ファイル操作、乱数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第12回_C互換ライブラリ_ファイル操作_乱数.ipynb)
-13. [コンテナ、イテレータ、汎用アルゴリズム](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
+13. [コンテナ、イテレータ、汎用アルゴリズム、auto](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
 14. [連想配列と連結リスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第14回_連想配列と連結リスト.ipynb)
-15. [構造体とクラス](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
+15. [構造体とクラス、const関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
 16. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第16回_動的メモリ管理とスマートポインタ.ipynb)
-17. [vectorクラスを作る、inline関数、const関数、explicit、auto、usingディレクティブ、usingエイリアスディレクティブ]
-18. [stringクラスを作る、演算子オーバーロード]
-19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/cpp_catch_up_09_クラス.ipynb)
+17. [vectorクラスを作る、explicit、usingエイリアスディレクティブ、演算子オーバーロード](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第17回_クラスの設計と実装.ipynb)
+18. [stringクラスを作る、inline関数、usingディレクティブ]
+19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
 20. [列挙体、共用体、ビットフィールド、tuple,variant,any]
 21. [プリプロセッサ、名前空間、using宣言、アトリビュート、初期化子リスト、C++スタイルのキャスト]
 22. [listクラスを作る]
