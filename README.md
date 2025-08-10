@@ -34,7 +34,7 @@
 15. [構造体とクラス、const関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
 16. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第16回_動的メモリ管理とスマートポインタ.ipynb)
 17. [vectorクラスを作る、explicit、usingエイリアスディレクティブ、演算子オーバーロード](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第17回_クラスの設計と実装.ipynb)
-18. [stringクラスを作る、inline関数、usingディレクティブ]
+18. [stringクラスを作る、inline関数、usingディレクティブ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第18回_型変換と演算子オーバーロード.ipynb)
 19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
 20. [列挙体、共用体、ビットフィールド、tuple,variant,any]
 21. [プリプロセッサ、名前空間、using宣言、アトリビュート、初期化子リスト、C++スタイルのキャスト]
