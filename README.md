@@ -26,6 +26,8 @@
 10. [関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第10回_関数.ipynb)
 11. [参照とポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第11回_参照とポインタ.ipynb)
 
+[前期総合テスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/前期総合テスト.ipynb)
+
 後期:
 
 12. [C互換ライブラリ、乱数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第12回_C互換ライブラリ_乱数.ipynb)
