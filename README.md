@@ -39,12 +39,12 @@
 18. [stringクラスを作る、inline関数、usingディレクティブ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第18回_型変換と演算子オーバーロード.ipynb)
 19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
 20. [列挙体、共用体、variant、optional](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第20回_列挙型_共用体.ipynb)
-21. [プリプロセッサ、名前空間、using宣言、アトリビュート、初期化子リスト、C++スタイルのキャスト、ビットフィールド]
+21. [プリプロセッサ、属性(アトリビュート)、名前空間、C++スタイルのキャスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第21回_プリプロセッサ_属性_名前空間.ipynb)
 22. [listクラスを作る、ファイル操作]
 23. [KISS,DRY,YAGNI,SOLID]
 24. [デザインパターン]
 
 どこかに入れる:
-範囲for, イテレータ, ラムダ式, 関数オブジェクト, 例外, KISS, メモリ階層, 除算が遅い話, strict aliasingルール, 名前空間,
-using宣言, usingディレクティブ, プリプロセッサ, アトリビュート, キャスト, 乱数生成器の自作, スレッド, 排他制御, アサーション,
+範囲for, 関数オブジェクト, 例外, KISS, 除算が遅い話, strict aliasingルール,
+乱数生成器の自作, スレッド, 排他制御, アサーション, テンプレート,
 ビットフィールド, goto, 右辺値参照, インライン関数, 前方参照, explicit, 初期化子リスト, 副作用完了点, &&と||の短絡評価
