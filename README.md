@@ -40,11 +40,11 @@
 19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
 20. [列挙体、共用体、variant、optional](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第20回_列挙型_共用体.ipynb)
 21. [プリプロセッサ、属性(アトリビュート)、名前空間、C++スタイルのキャスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第21回_プリプロセッサ_属性_名前空間.ipynb)
-22. [listクラスを作る、ファイル操作]
+22. [スレッドと排他制御](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第22回_スレッドと排他制御.ipynb)
 23. [KISS,DRY,YAGNI,SOLID]
 24. [デザインパターン]
 
 どこかに入れる:
 範囲for, 関数オブジェクト, 例外, KISS, 除算が遅い話, strict aliasingルール,
-乱数生成器の自作, スレッド, 排他制御, アサーション, テンプレート,
-ビットフィールド, goto, 右辺値参照, インライン関数, 前方参照, explicit, 初期化子リスト, 副作用完了点, &&と||の短絡評価
+乱数生成器の自作, ファイル操作, アサーション, テンプレート, sequence pointとsequenced-before,
+ビットフィールド, goto, 右辺値参照, インライン関数, 前方参照, explicit, 初期化子リスト, &&と||の短絡評価
