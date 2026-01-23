@@ -44,6 +44,8 @@
 23. [KISS,DRY,YAGNI,SOLID]
 24. [デザインパターン]
 
+[後期総合テスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/後期総合テスト.ipynb)
+
 どこかに入れる:
 範囲for, 関数オブジェクト, 例外, KISS, 除算が遅い話, strict aliasingルール,
 乱数生成器の自作, ファイル操作, アサーション, テンプレート, sequence pointとsequenced-before,
