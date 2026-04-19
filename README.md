@@ -1,6 +1,6 @@
-# cpp2025
+# C++の初心者に向けた教材
 
-2025年度C/C++講義のテキスト
+これはC++言語の基礎を学ぶためのテキストです。Google Colab(グーグル・コラボ)というアプリを利用して、C++によるプログラミングを学習します。
 
 **Google Colabのリンク**
 
@@ -12,7 +12,7 @@
 
 また、「ファイル」メニューの「ダウンロード → .ipynbをダウンロード」を選ぶと、テキストをPCのドライブに保存できます。
 
-前期:
+前期: C++の基本的な文法とプログラムの書きかたを学びます。
 
 1. [プログラムを書いてみよう](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第01回_プログラムを書いてみよう.ipynb)
 2. [エラーの直しかた](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第02回_エラーの直しかた.ipynb)
@@ -28,7 +28,7 @@
 
 [前期総合テスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/前期総合テスト.ipynb)
 
-後期:
+後期: C++の便利な機能や、より高度な使い方を学びます。
 
 12. [C互換ライブラリ、乱数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第12回_C互換ライブラリ_乱数.ipynb)
 13. [コンテナ、イテレータ、汎用アルゴリズム、auto](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
