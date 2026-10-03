@@ -31,13 +31,16 @@
 後期: C++の便利な機能や、より高度な使い方を学びます。
 
 12. [C互換ライブラリ、乱数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第12回_C互換ライブラリ_乱数.ipynb)
-13. [コンテナ、イテレータ、汎用アルゴリズム、auto](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
-14. [連想配列と連結リスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第14回_連想配列と連結リスト.ipynb)
-15. [構造体とクラス、const関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
-16. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第16回_動的メモリ管理とスマートポインタ.ipynb)
-17. [vectorクラスを作る、explicit、usingエイリアスディレクティブ、演算子オーバーロード](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第17回_クラスの設計と実装.ipynb)
-18. [stringクラスを作る、inline関数、usingディレクティブ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第18回_型変換と演算子オーバーロード.ipynb)
-19. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
+13. [構造体とクラス、const関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第15回_構造体とクラス.ipynb)
+14. [動的メモリ管理とスマートポインタ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第16回_動的メモリ管理とスマートポインタ.ipynb)
+15. [継承と仮想関数](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第19回_継承と仮想関数.ipynb)
+16. [コンテナ、イテレータ、汎用アルゴリズム、auto](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第13回_コンテナ_イテレータ_汎用アルゴリズム.ipynb)
+
+来年度:
+
+17. [連想配列と連結リスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第14回_連想配列と連結リスト.ipynb)
+18. [vectorクラスを作る、explicit、usingエイリアスディレクティブ、演算子オーバーロード](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第17回_クラスの設計と実装.ipynb)
+19. [stringクラスを作る、inline関数、usingディレクティブ](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第18回_型変換と演算子オーバーロード.ipynb)
 20. [列挙体、共用体、variant、optional](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第20回_列挙型_共用体.ipynb)
 21. [プリプロセッサ、属性(アトリビュート)、名前空間、C++スタイルのキャスト](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第21回_プリプロセッサ_属性_名前空間.ipynb)
 22. [スレッドと排他制御](https://colab.research.google.com/github/tn-mai/cpp2025/blob/main/C%2B%2B言語_第22回_スレッドと排他制御.ipynb)
